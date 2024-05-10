@@ -7,7 +7,7 @@ This project utilizes the VGG16 convolutional neural network architecture to cla
 - [**Karan Lashkari**](https://github.com/karanlashkari)<br>
 - [**Sumeet Dube**](https://github.com/dsumeet14)<br>
 - [**Pritam Mohanty**](https://github.com/Pritam-Mohanty10)<br>
-- [**Vishal Chandra**](https://github.com/vishalchandra03)<br>
+- [**Shivam Dave**](https://github.com/Shivam-Dave)<br>
 
 ## Table of Contents
 
