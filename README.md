@@ -2,12 +2,6 @@
 
 This project utilizes the VGG16 convolutional neural network architecture to classify waste into two categories: recycle waste and organic waste. The aim is to provide an automated solution for waste sorting, which can contribute to efficient recycling processes and environmental sustainability.
 
-## Contributors
-- [**Shivam Bhosle**](https://github.com/007-Shivam)<br>
-- [**Karan Lashkari**](https://github.com/karanlashkari)<br>
-- [**Sumeet Dube**](https://github.com/dsumeet14)<br>
-- [**Pritam Mohanty**](https://github.com/Pritam-Mohanty10)<br>
-- [**Shivam Dave**](https://github.com/Shivam-Dave)<br>
 
 ## Table of Contents
 
